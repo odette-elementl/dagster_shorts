@@ -1,0 +1,5 @@
+locations:
+  - location_name: data_pipeline
+  code_source:
+    module_name: my_data_pipeline
+    working_directory: my-data-pipeline
